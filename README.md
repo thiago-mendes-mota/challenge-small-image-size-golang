@@ -1,2 +1,3 @@
-# challenge-small-image-size-golang
-hello world pra ser utilizado em uma imagem enxuta....
+# "Hello World" customizado
+
+hello world para um desafio image Size no docker
